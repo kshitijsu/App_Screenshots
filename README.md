@@ -1,1 +1,3 @@
-# App_Screenshots
+# App Screenshots
+
+Screenshot of all the screen
